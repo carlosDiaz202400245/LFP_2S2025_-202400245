@@ -1,0 +1,25 @@
+{
+  "name": "lfp_practica1",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":  "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosDiaz202400245/LFP_2S2025_-202400245.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosDiaz202400245/LFP_2S2025_-202400245/issues"
+  },
+  "homepage": "https://github.com/carlosDiaz202400245/LFP_2S2025_-202400245#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
